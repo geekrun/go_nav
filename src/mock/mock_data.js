@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1754639035617",
+          "name": "Overt",
+          "url": "https://github.com/lxz-jiandan/Overt",
+          "description": "Overt是一个Android设备安全检测工具，通过收集和分析各种系统信息来检测设备是否被Root、被调试工具注入或存在其他安全风险。项目采用模块化架构设计，将不同功能分散到独立的模块中，便于维护和扩展。",
+          "icon": "https://avatars.githubusercontent.com/u/129042895?v=4"
         }
       ]
     },
@@ -272,20 +279,6 @@ export const mockData = {
           "icon": "/sitelogo/www.binance.com.ico"
         },
         {
-          "id": "okx",
-          "name": "OKX",
-          "url": "https://www.okx.com",
-          "description": "数字资产交易服务平台",
-          "icon": "/sitelogo/www.okx.com.ico"
-        },
-        {
-          "id": "bitget",
-          "name": "Bitget",
-          "url": "https://www.bitget.com",
-          "description": "全球化数字资产交易服务商",
-          "icon": "/sitelogo/www.bitget.com.ico"
-        },
-        {
           "id": "tradingview",
           "name": "TradingView",
           "url": "https://cn.tradingview.com",
@@ -312,13 +305,6 @@ export const mockData = {
           "url": "https://www.coinbase.com",
           "description": "美国合规加密货币交易平台",
           "icon": "/sitelogo/www.coinbase.com.ico"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
     },
@@ -391,6 +377,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1754639157016",
+          "name": "NoHello",
+          "url": "https://github.com/MhmRdd/NoHello.git",
+          "description": "A Zygisk module to hide root.",
+          "icon": "https://avatars.githubusercontent.com/u/52679407?v=4"
         }
       ]
     },
@@ -406,27 +399,6 @@ export const mockData = {
           "url": "https://www.notion.so",
           "description": "全能工作空间",
           "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
     }
