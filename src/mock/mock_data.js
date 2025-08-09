@@ -134,6 +134,13 @@ export const mockData = {
           "url": "https://github.com/RuoShui-0014/js-env",
           "description": "基于isolated-vm魔改虚拟机实现的js环境框架，封装了一套非js标准的代理和native函数创建的方法，全局对象等其他对象均不可检测，document.all等均可实现同底层一样效果",
           "icon": "https://avatars.githubusercontent.com/u/77911886?v=4"
+        },
+        {
+          "id": "site-1754729635717",
+          "name": "AutoWK",
+          "url": "https://github.com/LoseNine/AutoWK",
+          "description": "🚀 一个基于原生 WebKit二次开发的自动化浏览器框架，自带指纹反检测浏览器，支持命令行参数控制窗口位置与代理配置，并通过 Python 客户端驱动自动操作浏览器。",
+          "icon": "https://github.com/LoseNine/AutoWK/raw/main/icon.png"
         }
       ]
     },
