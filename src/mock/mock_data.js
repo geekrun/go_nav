@@ -41,7 +41,15 @@ export const mockData = {
       "name": "web逆向",
       "icon": "☁️",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754729873864",
+          "name": "js_reverse",
+          "url": "https://github.com/luzhisheng/js_reverse",
+          "description": "js逆向学习",
+          "icon": "https://avatars.githubusercontent.com/u/32545160?v=4"
+        }
+      ]
     },
     {
       "id": "dev-tools",
@@ -62,7 +70,15 @@ export const mockData = {
       "name": "验证码与AI",
       "icon": "👥",
       "order": 5,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754730319445",
+          "name": "Botright",
+          "url": "https://github.com/Vinyzu/Botright",
+          "description": "Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captchas for free with AI.",
+          "icon": "https://avatars.githubusercontent.com/u/50874994?v=4"
+        }
+      ]
     },
     {
       "id": "finance",
@@ -91,7 +107,15 @@ export const mockData = {
       "name": "容器与系统",
       "icon": "📚",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754730196884",
+          "name": "NewBlackbox",
+          "url": "https://github.com/ALEX5402/NewBlackbox",
+          "description": "a softwere to clone apps on android also support running apps without installing",
+          "icon": "https://avatars.githubusercontent.com/u/76860596?v=4"
+        }
+      ]
     },
     {
       "id": "tools",
