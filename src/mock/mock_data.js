@@ -7,25 +7,25 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1754729566045",
+          "name": "CyberChef",
+          "url": "https://gchq.github.io/CyberChef/",
+          "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.",
+          "icon": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4WAoAAAAQAAAADwAADgAAQUxQSGoAAAARf6C4bSQ1tV+GY4yIgAxb5N9EHk4rcFPbthrdMFRpGfp4YAvYxQBXkREJMTDkYEbB+GF68RDR/wkAMNU+AzTz6/3Uee35/g+XN2lfqOuJeg9UixsR4vy3CyiV2QDWPwk4/ilAlGdZzmEbVlA4IHoAAAAwAgCdASoQAA8AAkA4JaQATwBQRGHoHKXhYAD+68N7w+3r2JYFpuff69+2xLCaAYoiAPwjJmHazt0lrR2ujXzjxU35+TRUruZwufg6cP53aCiBCC7YosrcNGnragNnxbQGgh+/8b1p6ex6UQ74djudbUCeLutYzB4AAA=="
         }
       ]
     },
@@ -34,130 +34,41 @@ export const mockData = {
       "name": "android逆向",
       "icon": "🤖",
       "order": 1,
-      "sites": [
-        {
-          "id": "site-1754728121997",
-          "name": "GirlHook",
-          "url": "https://github.com/Lynnette177/GirlHook",
-          "description": " G.I.R.L. — Gadget-Injection Runtime for Lua。支持LUA脚本的轻量化android JAVA方法hook框架。可用于逆向分析与开发测试。理论上支持API30+的系统。Android11、15、16测试通过。支持Hook java方法、dump dex以及RPC调用函数。",
-          "icon": "https://avatars.githubusercontent.com/u/68948483?v=4"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "cloud",
       "name": "web逆向",
       "icon": "☁️",
       "order": 2,
-      "sites": [
-        {
-          "id": "site-1754728357526",
-          "name": "js-env",
-          "url": "https://github.com/RuoShui-0014/js-env",
-          "description": "基于isolated-vm魔改虚拟机实现的js环境框架，封装了一套非js标准的代理和native函数创建的方法，全局对象等其他对象均不可检测，document.all等均可实现同底层一样效果",
-          "icon": "https://avatars.githubusercontent.com/u/77911886?v=4"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "dev-tools",
       "name": "计算机基础",
       "icon": "🛠️",
       "order": 3,
-      "sites": [
-        {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "community",
-      "name": "验证码与AI",
-      "icon": "👥",
-      "order": 6,
-      "sites": [
-        {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "design",
       "name": "开发技术",
       "icon": "🎨",
       "order": 4,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
+      "sites": []
+    },
+    {
+      "id": "community",
+      "name": "验证码与AI",
+      "icon": "👥",
+      "order": 5,
+      "sites": []
     },
     {
       "id": "finance",
       "name": "抓包与脱壳",
       "icon": "💰",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1754727831362",
@@ -179,72 +90,15 @@ export const mockData = {
       "id": "learning",
       "name": "容器与系统",
       "icon": "📚",
-      "order": 6,
-      "sites": [
-        {
-          "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
-        },
-        {
-          "id": "w3school",
-          "name": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程",
-          "icon": "/sitelogo/www.w3schools.com.ico"
-        },
-        {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        }
-      ]
+      "order": 7,
+      "sites": []
     },
     {
       "id": "tools",
       "name": "检测与隐藏",
       "icon": "⚙️",
-      "order": 7,
+      "order": 8,
       "sites": [
-        {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
-        },
         {
           "id": "site-1754639157016",
           "name": "NoHello",
@@ -266,13 +120,35 @@ export const mockData = {
       "name": "加密与混淆",
       "icon": "💼",
       "order": 9,
+      "sites": []
+    },
+    {
+      "id": "category-1754729231296",
+      "icon": "🔧",
+      "name": "浏览器与补环境",
+      "order": 10,
       "sites": [
         {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
+          "id": "site-1754728357526",
+          "name": "js-env",
+          "url": "https://github.com/RuoShui-0014/js-env",
+          "description": "基于isolated-vm魔改虚拟机实现的js环境框架，封装了一套非js标准的代理和native函数创建的方法，全局对象等其他对象均不可检测，document.all等均可实现同底层一样效果",
+          "icon": "https://avatars.githubusercontent.com/u/77911886?v=4"
+        }
+      ]
+    },
+    {
+      "id": "category-1754729329433",
+      "icon": "📁",
+      "name": "HOOK&TRACE",
+      "order": 11,
+      "sites": [
+        {
+          "id": "site-1754728121997",
+          "name": "GirlHook",
+          "url": "https://github.com/Lynnette177/GirlHook",
+          "description": " G.I.R.L. — Gadget-Injection Runtime for Lua。支持LUA脚本的轻量化android JAVA方法hook框架。可用于逆向分析与开发测试。理论上支持API30+的系统。Android11、15、16测试通过。支持Hook java方法、dump dex以及RPC调用函数。",
+          "icon": "https://avatars.githubusercontent.com/u/68948483?v=4"
         }
       ]
     }
