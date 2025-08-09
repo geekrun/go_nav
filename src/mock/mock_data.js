@@ -114,6 +114,20 @@ export const mockData = {
           "url": "https://github.com/ALEX5402/NewBlackbox",
           "description": "a softwere to clone apps on android also support running apps without installing",
           "icon": "https://avatars.githubusercontent.com/u/76860596?v=4"
+        },
+        {
+          "id": "site-1754730396756",
+          "name": "LiveContainer",
+          "url": "https://github.com/LiveContainer/LiveContainer",
+          "description": "Run iOS apps without actually installing them!",
+          "icon": "https://avatars.githubusercontent.com/u/206676373?s=200&v=4"
+        },
+        {
+          "id": "site-1754730617752",
+          "name": "sandbox",
+          "url": "https://github.com/Monster-GM/sandbox",
+          "description": "秘盒空间是一款应用隐私保护软件，可以将您的手机桌面已安装的各类应用都添加到秘盒空间内，避免TA人查看到您手机应用信息，打造个性化的隐私空间",
+          "icon": "https://avatars.githubusercontent.com/u/82452083?v=4"
         }
       ]
     },
