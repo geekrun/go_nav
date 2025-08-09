@@ -265,39 +265,18 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
-          "id": "binance",
-          "name": "币安",
-          "url": "https://www.binance.com",
-          "description": "加密货币交易平台",
-          "icon": "/sitelogo/www.binance.com.ico"
+          "id": "site-1754727831362",
+          "name": "browserleaks",
+          "url": "https://tls.browserleaks.com/",
+          "description": "tls指纹 https://browserleaks.com/tls",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABRUlEQVR4AZ3SIYycQBiG4c8L3OrK9d7UryIrkRs8ybkRqFErMWtQa4pHjcNnFAqDQYwad3LEW9JsoUeb5nJvfvfkd5/4T5/F8WmqyjzHvzEYKbdNY6+SCR/Rq9w+xpv8BySSXH05ny+1S0QOWEp1Nww/aqk84EPlwqul1ONPLDRBd9Fa3sOkYsdbluh0ascYx4fkSFnxGzslbhqAEIBehqTuhTFQ6Z0p11o+EWUJ8YXgVmtlF1isWoJG2FAdvWbwHmb1NOcdR4EGnNY8g0haNmwL+ox5dZwiWc/3bsPaYg22ws9cH7zVGLvjHWOp7pR3aoPreduxqWhK1mtzvAIsGjfsz7gML+IqdxWFGjYMSu+KyGFOMLftwo5o4GrolMg1HGeSYNHM9Rs8tWaOA7O//jwEP6Ujcsmg1an9924dkDrD1tcX/xNaf3RePVxE8wAAAABJRU5ErkJggg=="
         },
         {
-          "id": "tradingview",
-          "name": "TradingView",
-          "url": "https://cn.tradingview.com",
-          "description": "专业金融图表和交易平台",
-          "icon": "/sitelogo/cn.tradingview.com.ico"
-        },
-        {
-          "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "/sitelogo/www.10jqka.com.cn.ico"
-        },
-        {
-          "id": "xueqiu",
-          "name": "雪球",
-          "url": "https://xueqiu.com",
-          "description": "聪明的投资者都在这里",
-          "icon": "/sitelogo/xueqiu.com.ico"
-        },
-        {
-          "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "/sitelogo/www.coinbase.com.ico"
+          "id": "site-1754727910842",
+          "name": "ssllabs",
+          "url": "https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html",
+          "description": "SSL/TLS Capabilities of Your Browser",
+          "icon": "https://ssllabs.com/images/qualys-ssl-labs-logo.png"
         }
       ]
     },
