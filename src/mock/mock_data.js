@@ -203,6 +203,21 @@ export const mockData = {
           "icon": "https://avatars.githubusercontent.com/u/68948483?v=4"
         }
       ]
+    },
+    {
+      "id": "category-1756957391175",
+      "icon": "📁",
+      "name": "博客",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1756957444871",
+          "name": "oacia",
+          "url": "https://oacia.dev/",
+          "description": "爱好逆向，喜欢安卓的开源和自由，偶尔会去逆一逆市面上的 APP 和应用，看看它们是怎么去防护的～",
+          "icon": "https://oacia.dev/images/avatar.jpg"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
